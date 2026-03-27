@@ -1,0 +1,14 @@
+{
+  "name": "stablecoin-qr-payment-sdk",
+  "version": "0.1.0",
+  "description": "TypeScript SDK for generating and processing interoperable QR codes for stablecoin payments.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
